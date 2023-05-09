@@ -1,0 +1,385 @@
+<resources>
+    <string name="app_name">FireB</string>
+    <string name="you_are_already_registered">You are already Registered!</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="enter_your_mail_address">Enter your mail address</string>
+    <string name="password">Password</string>
+    <string name="enter_unique_id">Enter unique Id</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_up1">Sign Up</string>
+    <string name="welcome">WELCOME</string>
+    <string name="this_are_your_details_from_our_database">This are your details from our DataBase</string>
+    <string name="you_are_not_registered">You are not Registered!!  </string>
+    <string name="sign_in2">SIGN IN</string>
+    <string name="you_are_going_to_win_the_hackathon">YOU ARE GOING TO WIN THE HACKATHON</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="learning_bottom_navigation_view">Learning Bottom Navigation View</string>
+    <string name="pay_now">PAY NOW!!</string>
+    <string name="enter_the_amount">Enter the Amount</string>
+    <string name="a_small_amount_of_help_bring_a_great_change">A SMALL AMOUNT OF HELP BRING A GREAT CHANGE</string>
+    <string name="police">POLICE</string>
+    <string name="_112">112</string>
+    <string name="news0">East of the Bay? Mocha may change course towards Myanmar, according to predictions</string>
+    <string name="news1">Climate change worsened extreme weather events in 2022: State of the Global Climate report</string>
+    <string name="news2">White Death: Avalanche strikes near Sikkim’s Nathula Road for the first time; seven tourists killed, 13 rescued</string>
+    <string name="news3">Odisha experiencing the country’s worst forest fires again, 642 incidents in March</string>
+    <string name="news4">H3N2 influenza virus symptoms include fever and cough; doctors prescribe best time to take annual flue vaccine</string>
+    <string name="news5">Three year since outbreak of COVID-19 pandemic in india, country records 66 new infections</string>
+    <string name="news6">Shaken by Giaspura gas leak tragedy, Ludhiana school hold disaster mgmt drill</string>
+    <string name="news7">Rwanda floods kill 130, destroy over 5,000 houses</string>
+    <string name="newsDetail0">The cyclonic storm Mocha may change its course from the earlier prediction of making landfall in Odisha and West Bengal, as it is likely to move towards Myanmar, according to weather forecast website Windy.
+The cyclonic circulation, likely to develop over the southeast Bay of Bengal around May 6, would concentrate into a depression over 24 hours, the India Meteorological Department (IMD) said on May 4, 2023.
+In its official statement, the IMD predicts the depression to intensify and develop into a cyclonic storm by May 8 and move northwards towards the Bay of Bengal.
+However, the officials claim that it is too early to trace the exact path of the cyclone and the picture will be clear only after the formation of low pressure area.  “It is expected that an upper cyclonic circulation in the upper atmosphere will form by May 6. It will be followed by a lower cyclonic circulation on Sunday. This
+        is expected to happen if the conditions conducive to form a cyclone continue,” said Anupam Kashyapi, head of IMD’s weather forecasting department.
+Once the system is formed, it is expected that the circulation will lead to a depression by the evening of May 8, Kashyapi said.
+“However, the track of the cyclone will only become clearer once the system is formed. Considering the existing conditions and climate models, it is predicted that the cyclone will skirt India and Bangladesh through south coastal areas, Odisha and southeast Gangetic West Bengal,” he added.
+The official said the conditions or the process of cyclone formation has been slightly delayed than expected.
+The cyclonic formation is likely, but the steering winds are not clear to help understand the path of the cyclone, said Raghu Murtugudde, a climate scientist at the University of Maryland and Indian Institute of Technology, Bombay. Murtugudde added that Mumbai and Delhi have seen cooler summers in the past couple of months which is an anomaly considering the peak summer months. “As the winds are not normal, it may affect the course of cyclone,” he said.
+However, the Bay of Bengal has warmed quite a bit in March and April. “It is something to worry about. Warm ocean often lead to rapid intensification (RI) of cyclones,” he said.
+RI is defined as the shooting up of maximum sustained wind speed by at least 55 km per hour within a 24-hour period. “Such acceleration comes with a rapid drop in the pressure in the eye of a cyclone,” he explained.
+Considering the cyclone forming moisture load, all ingredients exist for rapid intensification, he added.</string>
+
+    <string name="newsDetail1">Rising global temperatures in 2022 contributed to more frequent and intense extreme weather events all around the world, according the State of the Global Climate 2022 report released April 21, 2022 by the World Meteorological Organization.
+These extreme weather events included heatwaves, droughts, wildfires, cold extremes, heavy rain, flooding, tropical cyclones and other extreme storms such as tornadoes in the United States.
+Many of these events have also been attributed to climate change due to human-emitted greenhouse gases in the atmosphere, which are also at a record high. There were 366 locations around the country that broke their highest temperature record during the period. Southern regions of China suffered from a 20 to 50 per cent rainfall deficit. The severe drought led to the Yangtze river drying up and reaching its lowest level on record at Wuhan.
+Europe also suffered from severe heat events in all its summer months. The heatwaves reached their peak in mid-July when the United Kingdom recorded a maximum temperature of 40°C for the first time.
+A study by a group of scientists at World Weather Attribution (WWA) said climate change had made this occurrence 10 times more likely. Temperature records also broke in Germany and Sweden in July.
+In the previous month, Urbe (Rome) had recorded 40°C. Other countries in the Mediterranean region also suffered from the heat during the summer.
+Tunisia recorded its hottest June, while a new temperature record of 49.1°C was set at Smara (Morocco) on July 10. The Mediterranean Sea also suffered from marine heatwaves from March to December.
+Exceptionally high temperatures were also recorded in Antarctica in March 2022 where two of the sites — Dome C and Vostok — recorded temperatures that were 35°C above the average for March and 15°C above the previous record years.
+The heatwaves were followed by drought in most of the European countries, with water levels in many of the major rivers such as the Rhine, Loire and Danube, falling to record low levels. Germany, France, the UK and Italy recorded their driest periods in almost 50 years.
+Read more: State of the Global Climate report: 58% of ocean suffered at least one marine heatwave event in 202
+The ongoing intense drought in the Horn of Africa also intensified with the fourth and fifth consecutive poor rainfall seasons in Kenya, Somalia and Ethiopia. Droughts also continued in Chile in South America and the western and southern states in the United States.
+The heatwaves in India and Pakistan in the spring and summer seasons of 2022 brought down the yield of wheat crops, significantly pushing the Government of India to ban wheat exports from the country. A WWA study showed these heatwaves to have become 30 times more likely due to climate change.
+The summer heatwaves in Pakistan were followed by devastating floods in August, which killed around 1,700 people and affected 33 million people. The flood waters covered 9 per cent of the total geographical area of the country, showed satellite imagery.
+In Nigeria, flooding occurred all through the rainy season, which was exacerbated in October due to very heavy rainfall, causing 603 deaths.
+Storms and tropical cyclones had a particularly drastic impact on the island country of Madagascar. From the middle of January to early February, three tropical storm systems battered Madagascar with extremely heavy rains.
+The rainfall started with an inter-tropical convergence zone (ITCZ) in mid-January, which is the region where the northeast and southwest trade winds converge to form a band of clouds with rainfall and occasional thunderstorms near the equator.</string>
+
+    <string name="newsDetail2">An avalanche at Thulo khola on the Nathula Road connecting Sikkim’s capital Gangtok with the strategic Nathula Pass killed seven tourists on April 4, 2023, the district collector of Gangtok told journalists. The dead include four men, two women and a child from Nepal, Uttar Pradesh and West Bengal.
+Approximately 20 tourists, along with 5-6 vehicles, were trapped in the avalanche. A search operation was mounted in which 13 tourists were rescued and taken to the district hospital STNM in the Sochakgang area of Gangtok city. Meanwhile, the dead bodies of the deceased persons have been brought to the hospital for their identification.
+PS Golay, the chief minister of Sikkim, visited the STNM Hospital to check on the tourists injured in the avalanche. He stated that all injured individuals from any state would receive free treatment at the hospital, and the deceased would be taken to their respective residences. The rescue operation would continue the next day for any stranded tourists.
+Golay also informed that the State Disaster Response Force (SDRF) team had rescued several individuals and the National Disaster Response Force will arrive for the search operation on April 5.
+The chief minister, who arrived in Delhi even as the avalanche struck, spoke to the district collector and supreintendents of police in East Sikkim, along with the state health secretary, medical superintendent, and home secretary upon learning of the incident.
+“Regarding the number of tourists still buried, there were conflicting reports across news and social media, and families were contacting the Sikkim government. Therefore, a helpline had been initiated immediately”, Golay said. The Gangtok district collector, Tushar Nikhare, informed that upon receiving information, the Gangtok district’s Incident Response Team was immediately activated, with Nikhare as the incident commander.
+The search and rescue operation was carried out by the Army, General Reserve Engineer Force, SDRF, Police, local residents, and overseen by the operation section chief (Supreintendent of Police, Gangtok).
+The disaster management team of STNM Hospital was also activated, and an ambulance, trauma specialist, and team were dispatched to the scene, Nikhare added.
+Gangtok Supreintendent of Police, Tenzing Loden Lepcha said since rescue is of utmost importance as there are some tourists who are traveling alone, making it difficult to locate them, helpline numbers were floated immediately.
+“Over 500 vehicle passes were issued up to the 15th mile, and all the vehicles have returned thus far. The hoteliers, travel agents, and taxi drivers have found their respective tourists, except for those who came alone, making it challenging for us to contact their hotels,” Lepcha said.
+He added that despite warnings not to climb the supposed stream below the snow, the tourists considered it safe and continued to have fun which led to this unfortunate and unavoidable natural calamity.
+“We advise tourists to follow the norms and directions, and we send them to their destinations based on India Meteorological Department weather reports. However, as a natural disaster cannot be predicted beforehand, we urge them to exercise caution,” added the SP.</string>
+
+    <string name="newsDetail4">The outbreak of the H3N2 influenza virus is reaching alarming levels in India.States and Union territories like Tamil Nadu, Delhi, Telangana, Andhra Pradesh, West Bengal, Odisha, Gujarat, Uttar Pradesh, Goa, Bihar, Maharashtra and Puducherry have witnessed a spike in cases, with one death each reported in Haryana and Karnataka.H3N2, a type of flu, is a dominant subtype of influenza A virus after the H1N1. The strains of H1N1 were found in humans during the 1918 Spanish flu pandemic and the 2009 swine flu phase.
+H3N2 was discovered in 1968 during the global outbreak of the Hong Kong flu pandemic — known as the third influenza pandemic of the 20th century. It is believed that a 1957 pandemic flu virus, caused by the influenza A subtype H2N2, gave birth to H3N2 after an antigenic shift — when a virus goes through.H3N2 affects all age groups.
+People with diabetes also have to maintain good hygiene practices, wear masks in crowded places and take annual influenza vaccination after consult ..
+What Are The Symptoms of H3N2 Flu?
+The symptoms of H3N2 flu are very similar to other seasonal flu and include:
+Runny or stuffy nose
+1.Sore throat with cough
+2.Headache
+3.Fever
+4.Chills
+5.Body ache
+6.Fatigue
+7.Diarrhoea
+8.Vomiting
+9.How is H3N2 Flu Diagnosed?
+While most doctors can diagnose the H3N2 flu due to its common symptoms with other flu, they may recommend patients undergo lab tests to rule out any other illnesses common during the season.
+How is H3N2 Flu Treated?
+The treatment for H3N2 flu depends upon the individual’s symptoms and severity. Uncomplicated cases of H3N2 are treated like any other seasonal flu:
+Getting plenty of rest
+Drinking enough fluids (juice, soups, water) to stay hydrated
+Taking over-the-counter medications to help relieve fever, headache and body pain
+In some cases of H3N2, antivirals like oseltamivir, baloxavir and peramivir may be given. When antiviral medications are administered within 48 hours of developing flu symptoms, they can shorten the duration of the illness and prevent complications.
+Seek immediate medical care if you fall under the following high-risk categories:
+Adults over 65 years of age
+Children under 5 years of age
+Pregnant women
+Individuals with chronic medical conditions like diabetes, pneumonia, asthma, heart disease or weakened immune system
+Is There A Vaccine For H3N2 Flu?
+Flu vaccinations prevent severe diseases and symptoms in the general population. Unfortunately, there is no vaccine to prevent one from H3N2 flu specifically. The annual flu vaccine protects from three to four strains of the flu virus (hence they are called trivalent or quadrivalent).
+However, these flu vaccines protect you more from the H1N1 viruses and influenza B viruses than the H3N2 viruses. This happens because the H3N2 viruses undergo more frequent genetic changes than the others, making the vaccine less effective against them.
+What Is The Outlook of H3N2 Flu After Treatment?
+Despite the rising cases of H3N2 flu, most people can recover at home with or without treatment from their physicians. The flu symptoms last for around a week or two but the cough and weakness may linger for a couple of weeks longer.
+If you belong to a high-risk group, you must visit your doctor as soon as flu symptoms set in.
+Symptoms that may require you to seek emergency care include:
+Shortness of breath or difficulty in breathing
+Pain or pressure in the chest
+Dizziness or lightheadedness
+Severe or persistent vomiting
+Confusion
+Worsening of existing symptoms
+      </string>
+    <string name="newsDetail3"> Forest fires continue to rage in Odisha after the state recorded 642 large fire incidents from March 2-9, 2023 — the highest in the country during the period, according to the Forest Survey of India (FSI) data.
+On March 9, the eastern state recorded 96 major fires in different jungles — also highest in the country. From all the other states combined, 189 active fire incidents were reported the same day, according to FSI.
+Odisha has recorded 871 large forest fires since November 1, 2022, the beginning of the forest fire seasons. This is also a national record for the season, official data showed. It was followed by Andhra Pradesh (754), Karnataka (642), Telangana(447) and Madhya Pradesh (316).
+A sudden jump in the incidents of fires across Odisha resulted in a massive loss of flora and fauna in the state’s forests.
+A prolonged dry spell since October 2022 and accumulation of inflammable materials such as dry leaves are some of the reasons that started these forest fires, said Debidutta Biswal, principal chief conservator of forests, Odisha.
+Some of the fires may have also been caused by human-made reasons, the expert added. The tribal people set fire on forests for shifting cultivation, collection of mahua flowers and kendu leaves, he noted.
+Forests are set on fire to cultivate turmeric in Baliguda forest division in Kandhamal district, said Sudhakar Mohapatra, a senior retired forest officer.
+Regeneration of the forests will be affected due to the wildfires, said SN Patra, president, Odisha Environment Society. The seeds which are supposed to germinate in the monsoon rain get burnt due to ground fires in the forest areas, affecting the forest growth, added Patra, who is a botanist.
+Forest fires result in the loss of timber, fruit-bearing trees and medicinal plants. They also pose a threat to the wildlife and their habitat areas, said Biswajit Mohanty, former member of the National Board for Wildlife.
+The forest department did not learn from the 2021 forest fires, when a record 51,968 forest fire incidents occured in the state. Massive fires had broken out in Similipal National Park in Mayurbhanj district, which is one of the major biospheres of Asia, he said.
+Read more: Similipal fire shines light on dark hole in India’s real-time air quality monitoring network
+After that, the Odisha government had constituted a nine-member task force, Mohanty added, to review the incidents of forest fire, its causes and suggest improvements in standard operating procedures for better fire management and containing the situation. “The task force report is yet to be made public.”
+Since forest staff were unable to contain the forest fires, Mohanaty urged the government to entrust the Gram Sabhas with adequate funds to handle such crises. “The first hour of the forest fire is crucial to control the blaze. It can be possible only by the local people who live in the forest area,” he said.
+Patra also called for involvement of the local community and rejuvenating the existing water bodies inside the forests to control the fires.
+But the forest fires may abate soon with the oncoming rains, as predicted by the India Meteorological Department’s regional centre in Bhubaneswar, and an active western disturbance, a senior forest officer said. “A spell of rain is enough to check the rapid spread of fires.”
+The number of active fires has been on a decline in the last three days, he added. “While 203 forest fires were sighted in the state on March 7, the number was down to 121 and 96 on March 8 and 9, respectively.”
+Nearly 3,000 forest personnel have been engaged to control the state-wide fires, Biswal said. Besides, 16,000 Vana Surakshya Samitis and 280 special squads are also on the ground trying to douse the fires, he added.
+The members of women self-help groups have been organising awareness campaigns and involved in efforts to stop  the fires, the official noted. </string>
+    <string name="newsDetail5">The national capital has battled three waves of Covid-19, with the Delta variant-driven wave in April-May 2021 being the deadliest. The two months saw hospitals and family members of patients scrambling for oxygen and doctors burdened beyond capacity. The third wave, fuelled by the Omicron variant, saw the number of daily Covid-19 cases in Delhi touch a record high of 28,867 on January 13 last year.  India saw a single-day rise of 66 coronavirus infections and active cases declined to 1,755 on Tuesday, three years after the first case was reported in Kerala and consequent waves of the pandemic left people scrambling for hospital beds and literally gasping for breath. Till now, the coronavirus disease has claimed 5,30,740 lives and infected 4.46 crore (4,46,82,785) people, according to Union health ministry.
+The waves in 2020 and 2021, particularly those fuelled by the Delta and the Omicron variants, wreaked havoc on the health system and people livelihoods and affected businesses. Dr. Suranjit Chatterjee, a senior consultant at Apollo hospital in Delhi, and a Covid survivor, said that the situation has become much better now, compared to the bad phase the country saw in 2020 and the nightmare in 2021.
+Cases have come down significantly in India, and its been three years since the first case was reported in the country in Kerala. People are relaxed right now, but influenza is still spreading very fast in India and in other countries. Thankfully, number of Covid cases is minimum," he told PTI. On Tuesday, the ministry said the daily positivity rate has been recorded at 0.05 per cent while the weekly positivity stands at 0.07 per cent.The active cases now comprise 0.01 per cent of the total infections, while the national recovery rate has increased to 98.81 per cent, according to the health ministry's website. The first coronavirus case globally was reported in China's Wuhan Province in December 19 and India had recorded its first case on January 30, 2020, when a medical student, who had returned to Thrissur from Wuhan, tested positive.
+The deadly virus that baffled doctors, scientists and common people alike in the initial year reared its ugly head in 2021 when the Delta variant hit the country. Delhi was one of the worst-hit cities, particularly during the deadly second wave when the death toll hit through the roofs.
+The national capital has battled three waves of Covid-19, with the Delta variant-driven wave in April-May 2021 being the deadliest. The two months saw hospitals and family members of patients scrambling for oxygen and doctors burdened beyond capacity. The third wave, fuelled by the Omicron variant, saw the number of daily Covid-19 cases in Delhi touch a record high of 28,867 on January 13 last year.The city had recorded a positivity rate of 30.6 per cent on January 14 last year, the highest so far. Delhi's first Covid-19 case was reported on March 2 when businessman Rohit Datta, a resident of Mayur Vihar in east Delhi, who lives with his wife, two children and mother, was diagnosed with the infection. Despite a fall in cases, he has often made an appeal to the masses to "not lower their guard" by getting into a casual mode, and adhere to all safety norms.
+"People are travelling freely now, restrictions lifted largely and people not feeling suspicions to socialise and interact physically with others. But, the first two year were deadly, so many lives lost, people suffered unimaginably. But, it seems the pandemic may not rear its ugly head again," he said. According to data shared by the ministry, the number of people who have recuperated from the disease in the country has increased to 4,41,50,289, while the case fatality rate stands at 1.19 per cent.
+The ministry's website shows that 220.48 crore doses of Covid-19 vaccine have been administered in the country so far. Dr. Chatterjee said vaccination and infection-induced immunity has also boosted confidence of people, to go out, socialise and travel. The vaccination drive against the disease had started across the country on January 16.Dr. Suranjit Chatterjee, a senior consultant at Apollo hospital in Delhi, and a Covid survivor, said that the situation has become much better now, compared to the bad phase the country saw in 2020 and the nightmare in 2021.
+“Cases have come down significantly in India, and its been three years since the first case was reported in the country in Kerala. People are relaxed right now, but influenza is still spreading very fast in India and in other countries. Thankfully, number of Covid cases is minimum,” he told PTI.
+On Tuesday, the ministry said the daily positivity rate has been recorded at 0.05 per cent while the weekly positivity stands at 0.07 per cent.
+The active cases now comprise 0.01 per cent of the total infections, while the national recovery rate has increased to 98.81 per cent, according to the health ministry’s website.
+The first coronavirus case globally was reported in China’s Wuhan Province in December 19 and India had recorded its first case on January 30, 2020, when a medical student, who had returned to Thrissur from Wuhan, tested positive.
+    </string>
+    <string name="newsDetail6">Eleven people, including three children, died allegedly after inhaling toxic gas in the city thickly-populated Giaspura area on Sunday, with authorities suspecting that dumping of some chemicals in the sewer led to the noxious emission.
+Four more persons, who were taken ill, are undergoing treatment at a hospital, officials said, adding the area was sealed, the residents were evacuated and a National Disaster Response Force (NDRF) team was at the spot following the incident.Though the source of the leakage and the type of the gas were yet to be ascertained, the officials said that they suspected that the poisonous gas was released after some chemical was disposed of in the sewerage in the area and reacted with methane.
+Giaspura is a thickly populated area with a migrant population. Several industrial and residential buildings are located here. All the victims belonged to Uttar Pradesh and Bihar and had been staying in Ludhiana.
+The incident came to light Sunday morning when some people who came to a local grocery store to buy milk started fainting. Four persons died on the spot while others were rushed to the hospital. Among the dead were three members of the family that owned the store and five from another.
+Police said five females and six males were among the dead.
+The district administration announced Rs 2 lakh compensation each for the family of the deceased and Rs 50,000 each for those who were taken ill in the incident.
+Union Home Minister Amit Shah expressed grief at the loss of lives and said the NDRF team is engaged in relief work. Punjab Chief Minister Bhagwant Mann Bhagwant Mann said the incident was very painful and added that all possible help is being provided.
+“It is likely that there is some gas contamination. We are collecting samples from manholes. It is quite likely that some chemical reacted with methane in manholes," Ludhiana Deputy Commissioner Surabhi Malik told reporters.Additional Deputy Commissioner Amarjit Singh Bains said, "A broken manhole has been found in the area and there was a strong smell emanating from it. There is a possibility that the chemical has been poured into the sewerage from that point".
+A district administration official said a team of the National Disaster Response Force (NDRF), which has reached here, will ascertain the source and the type of gas.
+The Ludhiana DC said an NDRF team is engaged in extracting samples for various kinds of chemical tests.
+She said there was no need to panic and asked people not to fall prey to any rumour-mongering.
+She also appealed to people to stay away from the area. "A check will be conducted to see how far this gas has spread," she said.
+"We are collecting samples from manholes to just check what it is exactly and to what extent it spread," Malik added.
+She further said that CCTV cameras were being scanned.
+The DC said different teams of district administration, police, municipal corporation and Punjab Pollution Control Board are stationed at the site.
+Ludhiana Police Commissioner Mandeep Singh Sidhu said it was apprehended that someone disposed of some chemicals in the sewerage which led to the emission of the toxic gas.
+"A cat was also found dead at the incident site," said Sidhu.
+As the smell of the gas started spreading, many people moved out of the area.
+The DC said the cordon at the scene of the leak will be extended. She said those who died in the incident did not show any symptoms of respiratory problems.
+    </string>
+    <string name="newsDetail7"> KIGALI, May 4 (Reuters) - Flooding and landslides triggered by heavy rains that have killed 130 people in Rwanda this week have also destroyed more than 5,000 homes, a government spokesperson said on Thursday.
+The rains that started on Tuesday evening caused floods and landslides in the country Western and Northern provinces. The death toll stood at 129 on Wednesday.
+"So far, we have recorded 130 deaths. Additionally, there are 77 injuries, with 36 of those individuals currently in the hospital. We also have five people missing," Alain Mukuralinda, deputy government spokesperson, said.
+He added the floods had also completely destroyed over 5,100 houses and affected an additional 2,500. All the people who were living in those homes, he said, now needed to be relocated. During a visit to the affected areas in western Rwanda on Thursday, Prime Minister Édouard Ngirente said search efforts were still underway as there were some bodies still buried in the mud which meant the death toll could still rise.
+"These disasters were caused by floods and erosion, which resulted in houses collapsing on people," he said.
+Mukuralinda said the landslides and flooding had destroyed 17 roads and 26 bridges, one hospital , two health posts and five health centres.
+He said the government had sent relief assistance, comprising food, hygienic kits, bedding, kitchen utensils and these were being transported to Ngororero, Rubavu, Rutsiro, Nyabihu - the most affected districts in Western province.
+Rwanda has been experiencing heavy and sustained rains since late March. </string>
+
+    <string name="disaster1">EARTHQUAKE</string>
+    <string name="disaster2">FLOOD</string>
+    <string name="disaster3">TORNADO</string>
+    <string name="disaster4">TSUNAMI</string>
+    <string name="disaster5">DROUGHT</string>
+    <string name="disaster6">LANDSLIDES</string>
+    <string name="disaster7">TROPICAL CYCLONES</string>
+    <string name="disaster8">VOLCANIC ERUPTION</string>
+    <string name="disaster9">FIRE</string>
+    <string name="disaster10">THUNDERSTORM</string>
+    <string name="disaster11">AVALANCHE</string>
+    <string name="disaster12">COVID</string>
+
+
+    <string name="disasterDetail1">"An earthquake is the shaking of the surface of the Earth resulting from a sudden release of energy in the Earth lithosphere that creates seismic waves.
+
+DO'S
+Do not panic
+1. If already inside, than Stay indoors! Get under a heavy desk or table and   hang on to it.
+2. If fire breaks out, drop on the floor and crawl towards the exit
+3. If you are out doors during the quake, keep away from buildings, trees and electricity lines. Walk towards open places, in a calm and  composed manner.
+
+DON'TS
+1. Do not enter into the unsafe or risky houses or buildings
+2. Don't light your kitchen stove if you suspect a gas leak.
+3. Do not keep telephone lines busy unnecessarily."</string>
+    <string name="disasterDetail2">"A flood is an overflow of water that submerges land that is usually dry. In the sense of "flowing water", the word may also be applied to the inflow of the tide. Floods are an area of study of the discipline hydrology and are of significant concern in agriculture, civil engineering and public health.
+
+DO's
+1. Switch off electrical and gas appliances, and turn off services off at the mains.
+2. Carry your emergency kit and let your friends and family know where you are going.
+3. Avoid contact with flood water it may be contaminated with sewage,oil,chemicals or other substances.
+4. If you have to walk in standing water, use a pole or stick to ensure that you do not step into deep water, open manholes or ditches.
+5. Stay away from power lines electrical current can travel through water, Report power lines that are down to the power company.
+
+DON'TS
+1. Don’t swim through fast flowing water – you may get swept away or struck by an object in the water.
+2. Don’t drive through a flooded area – You may not be able to see abrupt drop – offs and only half a meter of flood water can carry a car  away. Driving through flood water can  also cause additional damage to nearby property.
+3. Don’t eat any food that has come into contact with flood water.
+4. Don’t reconnect your power supply until a qualified engineer has checked it. Be alert for gas leaks – do not smoke or use candles,   lanterns, or open flames."</string>
+    <string name="disasterDetail5">"A drought is a period of drier-than-normal conditions. A drought can last for days, months or years. Drought often has large impacts on the ecosystems and agriculture of affected regions, and causes harm to the local economy.
+
+DO'S
+1. Practice rainwater harvesting.
+2. Repair and rejuvenate local water bodies before the rainy season.
+3. Excavate deep pits to help increase groundwater table.
+4. Participate in water conservation programmes.
+5. Put used domestic water to use by watering grasses and plants.
+6. Encouragement of afforestation with subabul, seemaruba, casurina, and eucalyptus.
+7. Promotion of bio diesel plantations like jetropha and pongomia.
+
+DON'TS
+1. Do not waste water at all.
+2. Do not cut trees and forests.
+3. Do not waste rainwater collected on rooftops, etc.
+4. Do not mess with traditional water sources such as ponds, annicuts, well, tanks, etc."</string>
+    <string name="disasterDetail3">"A tornado is a violently rotating column of air that is in contact with both the surface of the Earth and a cumulonimbus cloud or, in rare cases, the base of a cumulus cloud.
+
+DO'S
+1. Crouch as low as possible to the floor, facing down. Cover the back of your head with your hands.
+2. If you're in a mobile home, get out, even if it's tied down. You're probably safer outside, even if that means seeking shelter out in  the open.
+3. If you're outside with no shelter, lie flat in a ditch or depression and cover your head with your hands. Be aware of the potential for flooding.
+
+DON'TS
+1. Don't open the windows in your home. You may be exposed to flying glass if you're opening windows when the twister hits.
+2. Don't use elevators. You could get trapped if the power is lost.
+3. Don't go to the southwest corner of your shelter — most tornadoes approach from the southwest."</string>
+    <string name="disasterDetail4">"A tsunami is a series of waves in a water body caused by the displacement of a large volume of water, generally in an ocean or a large lake. Earthquakes, volcanic eruptions and other underwater explosions above or below water all have the potential to generate a tsunami.
+
+DO'S
+1. Stay away from the beach.
+2. Learn to understand and notice the sea. If there is noticeable recession in water away from the shore time become caution and move away  immediately..
+3. Move inland to higher ground immediately and stay there.
+
+DON'TS
+1. Do not use appliances or lights until an electrician has checked the electrical system
+2. Never go down to the beach to watch a tsunami come in."</string>
+    <string name="disasterDetail6">"Landslides, also known as landslips, are several forms of mass wasting that may include a wide range of ground movements, such as rockfalls, shallow or deep-seated slope failures, mudflows, and debris flows.
+
+DO'S
+1. If you stay in a landslide-prone area, then try to evacuate the place as early as possible.
+2. Be aware of unusual cracking or rolling of huge stones.
+3. Keep a watch on the water in the stream or channel. A rise in water level or transformation of colour from clear to muddy can be alarming.
+4. Stay out of the path of debris or landslides.
+5. Keep watch on the road for mud blocks or debris overflow.
+6. Try to connect with the local authority for relief or help.
+
+DON'TS
+1. Don't drive during the landslide.
+2. Don’t cross any stream or flooding river.
+3. Try to adhere to instructions given by the Government and do not ignore those.
+4. Do not ignore damp areas or any mark of cracks on roads and buildings."</string>
+    <string name="disasterDetail7">"A tropical cyclone is a rapidly rotating storm system characterized by a low-pressure center, a closed low-level atmospheric circulation, strong winds, and a spiral arrangement of thunderstorms that produce heavy rain and squalls.
+
+DO'S
+1. Keep your valuables and documents in containers, which cannot be damaged by water.
+2. Keep information about your blood group.
+3. Keep torches and spare batteries. These must be kept in secure places and handy.
+4. Make plans for people who are either sick, suffer from disabilities, aged and children /pergnant women.
+5. Store up at least seven-day stock of essential food articles, medicines and water supply.
+6. Keep blankets &amp; clothes ready for making beds. Also keep cotton bandages.
+7. Store some wooden boards so that they can be used to cover windows.
+
+DON'TS
+1. During the storm do not venture out unless advised to evacuate.
+2. If you have a vehicle and wish to move out of your house, leave early before the onset of a cyclone. It is often best to stay at home.
+3. Avoid remaining on the top floor of houses. Stay close to the ground.
+4. Fishermen are advised not to venture out into the sea. They should keep boats and rafts tied up in a safe place.
+5. Avoid taking shelters near old and damaged buildings or near trees.
+6. Do not touch power lines. One may get electrocuted."</string>
+    <string name="disasterDetail8">"The eruption of hot magma, volcanic ash, and/or gases from a volcano is called volcanic eruption.
+
+DO'S
+1. If outside at the time of eruption, seek shelter in a car or a building. If caught in volcanic ashfalls, wear a dust mask or use a handkerchief or cloth over your nose and mouth.
+2. Stay indoors as volcanic ash is a health hazard, especially if you have respiratory difficulties such as asthma or bronchitis.
+3. When indoors, close all windows and doors to limit the entry of volcanic ash. Place damp towels at thresholds.
+
+DON'TS
+1. Avoid driving in heavy ash. If you must drive, keep the windows up and do not use the air conditioning system.
+2. Do not get on your roof to remove ash.
+3. Stay indoors until authorities say it is safe to go outside."</string>
+    <string name="disasterDetail9">"Fire is the rapid oxidation of a material in the exothermic chemical process of combustion, releasing heat, light, and various reaction products. At a certain point in the combustion reaction, called the ignition point, flames are produced. The flame is the visible portion of the fire.
+
+DO'S
+1. All receptacles for waste should be emptied at regular intervals.
+2. Correct rated wire and electrical appliance etc. should be used.
+3. Faulty electrical appliances should be repaired/ replaced immediately.
+4. Electrical safety devices such as MB, GCD, Switches and fuses should conform to correct rating of Circuit.
+5. Welding/ cutting jobs should be carried out under strict supervision.
+6. Keep smoke/ fire check doors closed.
+7. Keep means of escape clear of obstructions.
+
+DON'TS
+1. Don’t dispose off lighted cigarette ends carelessly.
+2. Don’t plug too many electric appliances in one socket.
+3. Don’t store L.P.Gas against Gas cylinders rules.
+4. Don’t apply any paint on Fire Detectors/ Sprinkler Heads.
+5. Don’t engage unqualified contractors for the servicing of fire fighting system."</string>
+    <string name="disasterDetail10">"A thunderstorm, also known as an electrical storm or a lightning storm, is a storm characterized by the presence of lightning and its acoustic effect on the Earth's atmosphere, known as thunder. Relatively weak thunderstorms are sometimes called thundershowers.
+
+DO'S
+1. Keep monitoring local media for updates and warning instructions by various modes of communication.
+2. Stay indoors and avoid travel if possible.
+3. Close windows and doors, close window blinds, shades or curtains. Secure objects outside your home (e.g. furniture, bins, etc.). Remove tree timber or any other debris that may cause a flying accident.
+4. Ensure that children and pet animals are inside.
+
+DON'TS
+1. Do not lie flat on the ground, as this will make a bigger target.
+2. DO NOT take shelter under trees and particularly under isolated tree, as these conduct electricity.
+3. Do not use electric / electronic appliances including corded phones and any metal wires or bars in concrete walls or flooring."</string>
+    <string name="disasterDetail12">"Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.
+
+DO'S
+1. Maintain Hygiene
+2. Practice Social Distancing
+3. Seek Medical Help if Symptoms Occur
+4. Avoid Going Out
+5. Buy Essentials That Will Last for a Week
+6. Eat a Healthy Diet
+7. Drink Plenty of Water
+8. Disinfect Packages After Receiving Them
+9. Thoroughly Sterilize Toys and Other Items
+10. Take Good Care of Elders
+
+DON'TS
+1. Avoid Assuming That You are Immune to COVID-19
+2. Do Not Eat Outside Food
+3. Avoid Touching Your Face
+4. Don’t Skip Disinfection of the House
+5. Avoid Stepping Out Without a Face Cover
+6. Don’t Overstock Medicines
+7. Don’t Allow Children to Play Outside
+8. Don’t Ignore Government-issued Advice
+9. Don’t Touch Open Surfaces in Public Places
+10. Don’t Panic
+
+SYMPTOMS
+1. Trouble breathing
+2. Persistent pain or pressure in the chest
+3. Fever or chills
+4. Cough
+5. Fatigue
+6. Muscle or body aches
+7. Headache
+8. Loss of taste or smell
+9. Sore throat
+10. Congestion or runny nose
+11. Nausea or vomiting
+12. Diarrhea"</string>
+    <string name="disasterDetail11">"An avalanche is a rapid flow of snow down a slope, such as a hill or mountain. Avalanches can be set off spontaneously, by factors such as increased precipitation or snowpack weakening, or by external means such as humans, animals, and earthquakes.
+
+DO'S
+1. Carry an avalanche beacon, shovel, probes, and first-aid gear whenever you’re in the backcountry or side-country.
+2. Always travel with a partner and always ski slopes one at a time.
+3. If you are caught in an avalanche, fight like hell; if you are watching your partner, note their last seen point because this is where you will begin the search.
+
+DON'TS
+1. Assume that a well-tracked ski slope won’t avalanche.
+2. Think that side-country skiing is any safer than in the remote backcountry. It’s not.
+3. Leave a buried avalanche victim in order to alert rescuers. YOU are the rescuer and time is ticking away. Keep digging.
+4. Let peer pressure influence your better judgment. If you’re not comfortable with the risks being taken by your skiing partners, let them know in no uncertain terms."</string>
+
+    <string name="search_here">Search here</string>
+    <string name="time">Time</string>
+    <string name="min_temp">Min Temp</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="_12">12</string>
+</resources>
+

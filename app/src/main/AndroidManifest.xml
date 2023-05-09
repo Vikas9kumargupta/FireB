@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+    <uses-permission android:name="android.permission.WRITE_MEDIA_IMAGES" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/sankat_mochak"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/sankat_mochak"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FireB"
+        tools:targetApi="31">
+        <activity
+            android:name=".DisasterDetail"
+            android:exported="false" />
+        <activity
+            android:name=".Instruction"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityNewsDetails"
+            android:exported="false" />
+        <activity
+            android:name=".NewsUpdate"
+            android:exported="false" />
+        <activity
+            android:name=".ProfileResult"
+            android:exported="false" />
+        <activity
+            android:name=".Profile"
+            android:exported="false" />
+        <activity
+            android:name=".Payment"
+            android:exported="false" />
+        <activity
+            android:name=".Chat"
+            android:exported="false" />
+        <activity
+            android:name=".Emergency_Call"
+            android:exported="false" />
+        <activity
+            android:name=".Splash"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SignIn"
+            android:exported="true" />
+        <activity
+            android:name=".SignUp"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <meta-data
+            android:name="android.app.lib_name"
+            android:value="" />
+        </activity>
+
+        <meta-data
+            android:name="com.razorpay.ApiKey"
+            android:value="rzp_test_GIxx6kcEsRMayY" />
+        <meta-data
+            android:name="com.google.gms.wallet.api.enabled"
+            android:value="true" />
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-9490269980026122~3610079235"/>
+    </application>
+
+</manifest>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfileResult">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:background="#CF4D51"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/profile_image"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="68dp"
+        android:src="@drawable/police"
+        app:civ_border_color="#FF000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.44"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textUserName"
+        android:layout_width="match_parent"
+        android:layout_height="50sp"
+        android:layout_marginStart="25sp"
+        android:layout_marginEnd="25sp"
+        android:textSize="28sp"
+        android:layout_marginTop="40dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/profile_image" />
+
+    <TextView
+        android:id="@+id/textUserEmail"
+        android:layout_width="match_parent"
+        android:layout_height="50sp"
+        android:layout_marginStart="25sp"
+        android:layout_marginEnd="25sp"
+        android:textSize="28sp"
+        android:layout_marginTop="40dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textUserName" />
+
+    <TextView
+        android:id="@+id/textUserCity"
+        android:layout_width="match_parent"
+        android:layout_height="50sp"
+        android:layout_marginStart="25sp"
+        android:layout_marginEnd="25sp"
+        android:textSize="28sp"
+        android:layout_marginTop="40dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textUserEmail" />
+
+    <TextView
+        android:id="@+id/textUserAadhar"
+        android:layout_width="match_parent"
+        android:layout_height="50sp"
+        android:layout_marginStart="25sp"
+        android:layout_marginEnd="25sp"
+        android:textSize="28sp"
+        android:layout_marginTop="40dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textUserCity" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

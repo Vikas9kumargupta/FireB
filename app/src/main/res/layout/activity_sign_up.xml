@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/signup_screen"
+    android:orientation="vertical"
+    tools:context=".SignUp">
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        app:boxStrokeColor="@color/yellow"
+        app:hintTextColor="@color/yellow"
+        app:startIconDrawable="@drawable/baseline_email_24"
+        android:layout_gravity="center"
+        android:layout_marginTop="270dp"
+        >
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/etMail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:textColor="@color/yellow"
+            android:hint="@string/enter_your_mail_address" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        app:boxStrokeColor="@color/yellow"
+        app:hintTextColor="@color/yellow"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        app:startIconDrawable="@drawable/baseline_lock_24"
+        app:endIconMode="password_toggle"
+        >
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/etPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:textColor="@color/yellow"
+            android:hint="@string/password" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        app:boxStrokeColor="@color/yellow"
+        app:hintTextColor="@color/yellow"
+        app:startIconDrawable="@drawable/baseline_lock_24"
+        app:endIconMode="password_toggle"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        >
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:id="@+id/etConfirmPass"
+            android:layout_height="wrap_content"
+            android:textColor="@color/yellow"
+            android:hint="Confirm Password" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <Button
+        android:id="@+id/btnSignUp"
+        android:layout_gravity="center"
+        app:cornerRadius="15dp"
+        android:backgroundTint="#888681"
+        android:layout_width="300dp"
+        android:layout_marginTop="20dp"
+        android:layout_height="60dp"
+        android:text="@string/sign_up"
+        android:textSize="20sp"
+        />
+
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/you_are_already_registered"
+            android:layout_marginStart="95dp"
+            android:textColor="@color/black"/>
+        <TextView
+            android:id="@+id/tvSignIn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sign_in"
+            android:textStyle="bold"
+            android:textColor="@color/yellow"/>
+    </LinearLayout>
+
+</LinearLayout>

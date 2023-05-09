@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="15dp"
+    android:backgroundTint="#A9B9BB"
+    app:cardCornerRadius="13dp"
+    android:layout_margin="8dp"
+    android:id="@+id/cardItem"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/contactImage"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/sankatmochak_logo"
+            android:layout_margin="7dp"
+            app:shapeAppearanceOverlay="@style/SoftCorner"
+            >
+        </com.google.android.material.imageview.ShapeableImageView>
+
+        <TextView
+            android:id="@+id/contactName"
+            android:layout_width="162dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/police"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/contactNumber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/_112"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>

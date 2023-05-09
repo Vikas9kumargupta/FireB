@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:background="#CF4D51"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/profile_image"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="68dp"
+        android:src="@drawable/police"
+        app:civ_border_color="#FF000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.44"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/saveBtn"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginHorizontal="30dp"
+        android:backgroundTint="@color/yellow"
+        android:text="Save Profile"
+        android:textSize="26sp"
+        android:layout_marginTop="25dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/checkBox" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/eName1"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        app:boxStrokeColor="@color/yellow"
+        app:hintTextColor="@color/yellow"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/profile_image"
+        app:startIconDrawable="@drawable/baseline_person_24">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/userName"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="Enter your Name"
+            android:inputType="textEmailAddress"
+            android:textColor="@color/yellow" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/etMail1"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        app:boxStrokeColor="@color/yellow"
+        app:hintTextColor="@color/yellow"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/eName1"
+        app:startIconDrawable="@drawable/baseline_email_24">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/userEmail"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="@string/enter_your_mail_address"
+            android:inputType="textEmailAddress"
+            android:textColor="@color/yellow" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/etCity1"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        app:boxStrokeColor="@color/yellow"
+        app:hintTextColor="@color/yellow"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/etMail1"
+        app:startIconDrawable="@drawable/baseline_location_city_24">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/userCity"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="Enter Your Location"
+            android:inputType="textEmailAddress"
+            android:textColor="@color/yellow" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/etAadhar1"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        app:boxStrokeColor="@color/yellow"
+        app:hintTextColor="@color/yellow"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/etCity1"
+        app:startIconDrawable="@drawable/baseline_location_city_24">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/userAadhar"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="Enter Your Aadhar Number"
+            android:inputType="textEmailAddress"
+            android:textColor="@color/yellow" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="   Accepting Terms And Conditions"
+        android:textSize="18sp"
+        android:layout_marginStart="32dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/etAadhar1" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
