@@ -13,7 +13,6 @@ import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.provider.Settings
-import android.view.Menu
 import android.view.MenuItem
 import androidx.appcompat.app.ActionBarDrawerToggle
 import com.example.fireb.Models.WeatherModel
@@ -27,7 +26,6 @@ import android.widget.Toast
 import androidx.annotation.RequiresApi
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
-import androidx.databinding.ViewDataBinding
 import com.google.android.gms.location.FusedLocationProviderClient
 import com.google.android.gms.location.LocationServices
 import retrofit2.Call
@@ -45,10 +43,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     private lateinit var auth: FirebaseAuth
 
-    private lateinit var toast: Toast
     private lateinit var toggle: ActionBarDrawerToggle
-    private var backPressedTime: Long = 0
-    private lateinit var bind : ViewDataBinding
 
     private lateinit var currentLocation: Location
     private lateinit var fusedLocationProvider: FusedLocationProviderClient
@@ -417,10 +412,7 @@ class MainActivity : AppCompatActivity() {
              super.onBackPressed()
              return
          }
-    this.doubleBackToExitPressedOnce = true
-        finish()
     Toast.makeText(this, "Press back again to exit", Toast.LENGTH_SHORT).show()
-
     Handler().postDelayed({ doubleBackToExitPressedOnce = false }, 2000)
    }
 }
