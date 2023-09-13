@@ -7,7 +7,6 @@ import com.google.android.material.dialog.MaterialAlertDialogBuilder
 object Config {
 
         private var dialog : AlertDialog? = null
-
         fun showDialog(context : Context){
             dialog = AlertDialog.Builder(context)
                 .setView(R.layout.dialog_wait)
